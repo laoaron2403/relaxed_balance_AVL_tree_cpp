@@ -4,6 +4,7 @@ C++ implementation of Kim S. Larsen's Relaxed Balance AVL tree [1] on Non-Blocki
 The AVL tree in this code is leaf-oriented. The tree will run rebalancing procedure once it finds a path with enough number of violations.
 
 [1] Larsen, Kim S. "AVL trees with relaxed balance." In Proceedings of 8th International Parallel Processing Symposium, pp. 888-893. IEEE, 1994.
+
 [2] Brown, Trevor, Faith Ellen, and Eric Ruppert. "A general technique for non-blocking trees." In Proceedings of the 19th ACM SIGPLAN symposium on Principles and practice of parallel programming, pp. 329-342. 2014.
 
 ## Compiling
